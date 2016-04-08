@@ -1,0 +1,10 @@
+C:\Users\GEL8953\AppData\Local\Temporary Projects\InheritanceApplication\bin\Debug\InheritanceApplication.exe.config
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.exe.config
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.Resources.resources
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.vbproj.GenerateResource.Cache
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.exe
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.pdb
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.xml
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.exe
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.xml
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.pdb
