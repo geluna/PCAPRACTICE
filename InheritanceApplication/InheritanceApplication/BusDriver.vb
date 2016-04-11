@@ -1,3 +1,5 @@
-﻿Public Class BusDriver : Inherits Person
-    Public DriverRating As Integer
+﻿Public Class BusDriver : Interface Person
+
+
+    End Interface
 End Class
