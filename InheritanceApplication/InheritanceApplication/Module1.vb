@@ -1,7 +1,14 @@
 ﻿Module Module1
 
     Sub Main()
-        'Dim busDriver As BusDriver = New BusDriver()
+        Dim busDriver As IPerson = New BusDriver
+        busDriver.FirstName = "Jose"
+        busDriver.LastName = "No way"
+        busDriver.ethnicity = "Hispanic"
+        busDriver.Weight = 123
+        busDriver.Height = 6.1
+        busDriver.Experience = 3
+
         'Dim policeMan As PoliceOfficer = New PoliceOfficer()
 
         'busDriver.FirstName = "John"
